@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+spiegel_project/__init__.py
+spiegel_project/items.py
+spiegel_project/middlewares.py
+spiegel_project/pipelines.py
+spiegel_project/settings.py
+spiegel_project/spiders/__init__.py
+spiegel_project/spiders/spiegel-single.py
+spiegel_project/spiders/spiegel.py
